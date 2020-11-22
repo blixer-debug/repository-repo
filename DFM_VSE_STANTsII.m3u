@@ -1,0 +1,122 @@
+#EXTM3U
+#EXTINF:-1, Radio SOFT
+#EXTINF:-1, DFM
+http://shoutcast.byfly.by:88/dfm
+
+#EXTINF:-1, DFM (192 kbps)
+http://shoutcast.byfly.by:88/dfm192
+
+#EXTINF:-1, DFM D-скач 90
+http://shoutcast.byfly.by:88/dfm_90
+
+#EXTINF:-1, DFM CLUB
+http://shoutcast.byfly.by:88/dfm_club
+
+#EXTINF:-1, DFM Спокойной ночи, голыши!
+http://shoutcast.byfly.by:88/dfm_goodnight
+
+#EXTINF:-1, DFM Love
+http://shoutcast.byfly.by:88/dfm_love
+
+#EXTINF:-1, DFM Russian Dance
+http://shoutcast.byfly.by:88/dfm_russian
+
+#EXTINF:-1, Di.fm - Ambient
+http://shoutcast.byfly.by:88/difm_ambient
+
+#EXTINF:-1, Di.fm - Breaks
+http://shoutcast.byfly.by:88/difm_breaks
+
+#EXTINF:-1, Di.fm - Chillout
+http://shoutcast.byfly.by:88/difm_chillout
+
+#EXTINF:-1, Di.fm - Chillout Dreams
+http://shoutcast.byfly.by:88/difm_chilloutdreams
+
+#EXTINF:-1, Di.fm - Classic Vocal Trance
+http://shoutcast.byfly.by:88/difm_classicvocaltrance
+
+#EXTINF:-1, Di.fm - Club Sounds
+http://shoutcast.byfly.by:88/difm_club
+
+#EXTINF:-1, Di.fm - Club Dubstep
+http://shoutcast.byfly.by:88/difm_clubdub
+
+#EXTINF:-1, Di.fm - DJ Mixes
+http://shoutcast.byfly.by:88/difm_djmixes
+
+#EXTINF:-1, Di.fm - Drum`N`Bass
+http://shoutcast.byfly.by:88/difm_drumandbass
+
+#EXTINF:-1, Di.fm - Dubstep
+http://shoutcast.byfly.by:88/difm_dubstep
+
+#EXTINF:-1, Di.fm - Electro House
+http://shoutcast.byfly.by:88/difm_electrohouse
+
+#EXTINF:-1, Di.fm - Euro Dance
+http://shoutcast.byfly.by:88/difm_eurodance
+
+#EXTINF:-1, Di.fm - Euro Trance
+http://shoutcast.byfly.by:88/difm_eurotrance
+
+#EXTINF:-1, Di.fm - Funky House
+http://shoutcast.byfly.by:88/difm_funkyhouse
+
+#EXTINF:-1, Di.fm - Future Synthpop
+http://shoutcast.byfly.by:88/difm_futuresynthpop
+
+#EXTINF:-1, Di.fm - Goa-Psy Trance
+http://shoutcast.byfly.by:88/difm_goa
+
+#EXTINF:-1, Di.fm - Hard Core
+http://shoutcast.byfly.by:88/difm_hardcore
+
+#EXTINF:-1, Di.fm - Hard Dance
+http://shoutcast.byfly.by:88/difm_harddance
+
+#EXTINF:-1, Di.fm - Hard Style
+http://shoutcast.byfly.by:88/difm_hardstyle
+
+#EXTINF:-1, Di.fm - House
+http://shoutcast.byfly.by:88/difm_house
+
+#EXTINF:-1, Di.fm - Lounge
+http://shoutcast.byfly.by:88/difm_lounge
+
+#EXTINF:-1, Di.fm - Minimal
+http://shoutcast.byfly.by:88/difm_minimal
+
+#EXTINF:-1, Di.fm - Oldschool Acid
+http://shoutcast.byfly.by:88/difm_oldschoolacid
+
+#EXTINF:-1, Di.fm - Oldschool Electronica
+http://shoutcast.byfly.by:88/difm_oldschoolelectronika
+
+#EXTINF:-1, Di.fm - Progressive
+http://shoutcast.byfly.by:88/difm_progressive
+
+#EXTINF:-1, Di.fm - PsyChill
+http://shoutcast.byfly.by:88/difm_psychill
+
+#EXTINF:-1, Di.fm - Soulful House
+http://shoutcast.byfly.by:88/difm_soulfulhouse
+
+#EXTINF:-1, Di.fm - Space Music
+http://shoutcast.byfly.by:88/difm_space
+
+#EXTINF:-1, Di.fm - Tech House
+http://shoutcast.byfly.by:88/difm_techhouse
+
+#EXTINF:-1, Di.fm - Techno
+http://shoutcast.byfly.by:88/difm_techno
+
+#EXTINF:-1, Di.fm - Tribal House
+http://shoutcast.byfly.by:88/difm_tribalhouse
+
+#EXTINF:-1, Di.fm - UK Garage Radio
+http://shoutcast.byfly.by:88/difm_ukgarage
+
+#EXTINF:-1, Di.fm - Vocal Trance
+http://shoutcast.byfly.by:88/difm_vocaltrance
+
